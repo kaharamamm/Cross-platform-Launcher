@@ -1,2 +1,2 @@
 # Cross-platform-Cerebrum-Launcher
-A Launcher made with Avalonia
+A Cross-Platform Launcher made with Avalonia (Ceremeet Launcer)
